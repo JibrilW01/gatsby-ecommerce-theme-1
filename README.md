@@ -25,11 +25,6 @@ Take a look at the screenshot below or preview the live site here: https://gatsb
   - [Removing Renovate](#removing-renovate)
 - [Next Steps with This Theme](#next-steps-with-this-theme)
 
-## Quick Setup + Deploy Option
-
-Click the button below and it will help you create a new repo, create a new Netlify project, and deploy this Theme!
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/gatsby-ecommerce-theme&utm_source=github&utm_medium=matter-design-theme-repo&utm_campaign=template-team)
 
 ## Regular Setup
 
